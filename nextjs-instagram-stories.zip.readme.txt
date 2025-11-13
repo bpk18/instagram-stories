@@ -1,0 +1,1 @@
+This zip contains the Next.js project. Run `npm install` then `npm run dev`.
